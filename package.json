@@ -1,0 +1,16 @@
+{
+  "name": "kelas-awan-production",
+  "version": "1.0.0",
+  "description": "Kelas awan Production",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fadly Tanjung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
+    "nodemon": "^1.19.1"
+  }
+}
